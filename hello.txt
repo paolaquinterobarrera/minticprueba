@@ -1,1 +1,1 @@
-Mi archivo de bienvenida
+Mi welcome text
